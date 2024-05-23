@@ -1,6 +1,6 @@
 This notebook serves as an introduction to conducting inference for organ segmentation in human body CT scans. This method holds significant potential across various applications, particularly in radiation therapy, where manual organ segmentation using mathematical tools is standard practice. However, leveraging AI can automate this process, offering more efficient segmentation.
 
-![Image Description](./Capture.png)
+![Image Description](./Capture.PNG)
 
 
 
